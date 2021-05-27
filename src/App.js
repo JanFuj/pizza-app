@@ -7,7 +7,6 @@ import PizzaSumUpList from "./components/PizzaSumUpList";
 import PizzaShoppingBasket from "./components/PizzaShoppingBasket";
 
 //https://ccv-vsb.github.io/pizza/pizza.html
-// https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f
 
 export default class App extends Component {
   constructor(props) {
